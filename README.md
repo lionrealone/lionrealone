@@ -4,6 +4,14 @@ I'm 19 years old and based in Switzerland.
 
 I enjoy working on private projects in my free time, learning new things and trying to help others whenever I can.
 
+# **Vulnerabilities I've Discovered**  
+
+| **Company & Exploit** | **Vulnerability Type** |  
+|----------------------|------------------------|  
+| **Framer – Client-Side Subscription Entitlement Enforcement Bypass** | **CWE-602: Client-Side Enforcement of Server-Side Security** |
+
+---
+
 ## Languages & Basics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
