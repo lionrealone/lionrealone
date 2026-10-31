@@ -4,6 +4,8 @@ I'm 19 years old and based in Switzerland.
 
 I enjoy working on private projects in my free time, learning new things and trying to help others whenever I can.
 
+---
+
 # **Vulnerabilities I've Discovered**  
 
 | **Company & Exploit** | **Vulnerability Type** |  
