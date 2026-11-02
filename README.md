@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm LionDerWahre</h1>
 <h3 align="center">Currently I am looking for Security Vulnerabilities</h3>
-
-- 📫 How to reach me **lion.realo0ne@gmail.com**
+<h3 align="center">How to reach me <a href="mailto:lion.realo0ne@gmail.com">lion.realo0ne@gmail.com</a></h3>
 
 ---
 
