@@ -15,6 +15,7 @@ I enjoy working on private projects in my free time, learning new things and try
 | **Company & Exploit** | **Vulnerability Type** |  
 |----------------------|------------------------|  
 | **Framer – Client-Side Subscription Entitlement Enforcement Bypass** | **CWE-602: Client-Side Enforcement of Server-Side Security** |
+| **Squarespace – Partial Domain Hijacking** | **CWE-302: Authentication Bypass by Assumed-Immutable Data** |
 
 ---
 
