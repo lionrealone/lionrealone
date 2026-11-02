@@ -84,8 +84,6 @@ I enjoy working on private projects in my free time, learning new things and try
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
-<h2 align="center">In Loving Memory</h2>
-
-<h1 align="center">♥️</h1>
+<h2 align="center">♥️ In Loving Memory</h2>
 <h3 align="center"><a href="https://github.com/red-killer">@red-killer</a></h3>
 <h3 align="center"><a href="https://rustyrocket.gg/">https://rustyrocket.gg/</a></h3>
