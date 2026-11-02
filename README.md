@@ -1,4 +1,9 @@
-﻿# LionDerWahre
+<h1 align="center">Hi 👋, I'm LionDerWahre</h1>
+<h3 align="center">Currently I am looking for Security Vulnerabilities</h3>
+
+- 📫 How to reach me **lion.realo0ne@gmail.com**
+
+---
 
 I'm 19 years old and based in Switzerland.
 
